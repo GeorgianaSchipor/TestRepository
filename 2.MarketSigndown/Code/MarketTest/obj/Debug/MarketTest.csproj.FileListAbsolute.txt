@@ -1,0 +1,9 @@
+C:\Users\gschipor\Documents\GitHub\TestRepository\2.MarketSigndown\Code\MarketTest\bin\Debug\MarketTest.dll
+C:\Users\gschipor\Documents\GitHub\TestRepository\2.MarketSigndown\Code\MarketTest\bin\Debug\MarketTest.pdb
+C:\Users\gschipor\Documents\GitHub\TestRepository\2.MarketSigndown\Code\MarketTest\bin\Debug\Market.dll
+C:\Users\gschipor\Documents\GitHub\TestRepository\2.MarketSigndown\Code\MarketTest\bin\Debug\Market.pdb
+C:\Users\gschipor\Documents\GitHub\TestRepository\2.MarketSigndown\Code\MarketTest\obj\Debug\MarketTest.csprojAssemblyReference.cache
+C:\Users\gschipor\Documents\GitHub\TestRepository\2.MarketSigndown\Code\MarketTest\obj\Debug\MarketTest.csproj.CoreCompileInputs.cache
+C:\Users\gschipor\Documents\GitHub\TestRepository\2.MarketSigndown\Code\MarketTest\obj\Debug\MarketTest.csproj.CopyComplete
+C:\Users\gschipor\Documents\GitHub\TestRepository\2.MarketSigndown\Code\MarketTest\obj\Debug\MarketTest.dll
+C:\Users\gschipor\Documents\GitHub\TestRepository\2.MarketSigndown\Code\MarketTest\obj\Debug\MarketTest.pdb
